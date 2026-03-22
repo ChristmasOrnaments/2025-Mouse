@@ -9,6 +9,7 @@ This ornament shares the same schematic and code base as the previous ornaments.
 ![front](media/front.jpg)
 ![tree](media/mouse.jpg)
 ![schematic](media/schematic.jpg)
+![Mouse](media/Mouse.gif)
 
 ### Compiling
 
