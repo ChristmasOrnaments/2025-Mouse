@@ -6,13 +6,9 @@ The detailed explanation of the original Snowman ornament is [here](https://gith
 
 This ornament shares the same schematic and code base as the previous ornaments. Obviously the silkscreen image and LED locations have changed. I have now moved to Kicad 9, as Eagle is no longer supported on Linux.
 
-Here are some pics (click for larger), and the code/resource files can be download from the bottom of the page.
-
-![schematic](media/schematic.jpg)
 ![front](media/front.jpg)
 ![tree](media/mouse.jpg)
-
-
+![schematic](media/schematic.jpg)
 
 ### Compiling
 
