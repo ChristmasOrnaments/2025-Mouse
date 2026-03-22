@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AVR-ICSP")(type "KiCad")(uri "${KIPRJMOD}/AVR-ICSP/AVR-ICSP.pretty")(options "")(descr ""))
+)
